@@ -1,6 +1,6 @@
 
 
-public class L8_Operators {
+public class L08_Operators {
     public static void main(String[] args) {
         // 1. Arithmetic Operators
         int a = 4;
