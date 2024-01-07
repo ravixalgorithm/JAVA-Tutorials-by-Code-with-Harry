@@ -1,6 +1,6 @@
 
 
-public class L4_Literals {
+public class L04_Literals {
     public static void main(String[] args) {
         byte age = 34;
         int age2 = 56;
