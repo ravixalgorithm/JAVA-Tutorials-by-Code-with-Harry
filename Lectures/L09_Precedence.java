@@ -1,6 +1,6 @@
 
 
-public class L9_Precedence {
+public class L09_Precedence {
     public static void main(String[] args) {
         int a = 6*5-34/2;
         /*
