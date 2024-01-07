@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class L5_TakingInput {
+public class L05_TakingInput {
     public static void main(String[] args) {
         System.out.println("Taking input from the User");
         Scanner sc = new Scanner(System.in);
