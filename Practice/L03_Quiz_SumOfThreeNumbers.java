@@ -1,4 +1,4 @@
-public class L3_Quiz_SumOfThreeNumbers {
+public class L03_Quiz_SumOfThreeNumbers {
     public static void main(String[] args) {
         int num1 = 3;
         int num2 = 45;
