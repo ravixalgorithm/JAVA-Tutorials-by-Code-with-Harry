@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class L6_Ex1_CbsePercentageCalculator {
+public class L06_Ex1_CbsePercentageCalculator {
     public static void main(String[] args) {
         System.out.println(" ");
         System.out.println("Calculate your percentage now with this amazing Percentage calcutor");
